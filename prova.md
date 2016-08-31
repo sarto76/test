@@ -1,7 +1,6 @@
 **prima prova**
 ciao a tutti
 
-java''
 '''java
 
 private static void ciao(){
