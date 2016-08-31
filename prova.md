@@ -2,6 +2,7 @@
 ciao a tutti
 
 java''
+'''java
 
 private static void ciao(){
  int a=2;
@@ -11,5 +12,14 @@ private static void ciao(){
 
 
 
+
+'''
+
+
+'''php
+
+$primo=1;
+$secondo=2;
+$ris=$primo+$secondo;
 
 ''
