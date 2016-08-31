@@ -1,8 +1,8 @@
 **prima prova**
 ciao a tutti
 
-java''
-'''java
+
+```java
 
 private static void ciao(){
  int a=2;
@@ -11,15 +11,12 @@ private static void ciao(){
 }
 
 
+```
 
 
-'''
-
-
-'''php
+```php
 
 $primo=1;
 $secondo=2;
 $ris=$primo+$secondo;
-
-''
+```
